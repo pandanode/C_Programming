@@ -22,7 +22,7 @@ int main() {
     return 0;
 }
 float squareArea(float side) {
-    return side * side;
+    return pow(side, 2);
 }
 double circleArea(double radius) {
     return 3.14 * radius * radius;

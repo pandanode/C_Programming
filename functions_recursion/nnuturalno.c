@@ -2,7 +2,7 @@
 int sum(int n);
 
 int main(){
-    print("sum is:%d", sum(10));
+    printf("sum is:%d", sum(10));
     printf("\n");
     return 0;
 }

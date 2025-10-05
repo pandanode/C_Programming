@@ -1,0 +1,1 @@
+make a program to read a interger from the file

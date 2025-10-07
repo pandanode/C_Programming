@@ -1,3 +1,3 @@
-student name1021-thread-info
-age of the age3
-cgpa of the student1022.000000
+student name34
+age of the age43
+cgpa of the student34.000000
